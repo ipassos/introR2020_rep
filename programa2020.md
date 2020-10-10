@@ -17,7 +17,7 @@ Cabe ressaltar que a intenção deste curso não é de esgotar as possibilidades
 # Pré-requisitos
 Não é necessário nenhum conhecimento prévio de programação para a realização desse curso. Conhecimentos básicos de estatística descritiva são desejáveis.
 
-É necessário o cadastro prévio no site do RStudio Cloud (https://rstudio.cloud/).  
+É necessário o cadastro prévio no site do [RStudio Cloud](https://rstudio.cloud/).  
 
 # Funcionamento do curso
 

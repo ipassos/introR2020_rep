@@ -18,6 +18,11 @@
 #3 - Substitua a variável ano de nascimento por um outro ano. O que acontece com as outras variáveis? 
 # Se eu quero mudar a variável da diferença entre os anos o que preciso fazer?
 
+#4 As seguintes expressoes retornam qual resposta do R? (tente descobrir sem colocar no R a expressao)
+# Atençao para os parenteses!!!!
+
+#a) (TRUE == TRUE) || (TRUE == FALSE)
+#b) ((111 >= 111) || !(TRUE)) && ((4 + 1) == 5)
 
 ################################################################ BLOCO 2 ################################################################ 
 ################################################################ Vetores ################################################################

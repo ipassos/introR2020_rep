@@ -50,7 +50,7 @@ table(sample2$TIP_AREA)
 #agrega as 4 categorias da variavel TIP_AREA em apenas 2, não substituindo a variavel original, criando uma nova 
 sample2 <- sample2 %>% 
               mutate(TIP_AREA2 = fct_collapse(TIP_AREA, "RM" = c("Capital", "Resto da RM (Região Metropolitana, excluindo a capital)"),
-                                              "N_RM" =  c("Resto da RIDE (Região Integrada de Desenvolvimento Econômico, excluindo a capital)", 
+                                              "Não RM" =  c("Resto da RIDE (Região Integrada de Desenvolvimento Econômico, excluindo a capital)", 
                                               "Resto da UF  (Unidade da Federação, excluindo a região metropolitana e a RIDE)")))
 
 ##gráficos base
